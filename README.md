@@ -5,7 +5,7 @@ This app can:
  - create/read/update/delete Notes
  - Allows a user to do log in and save his personal notes
  
- For the Front-End used a Bootstrap Theme : Minty.
+ For the Front-End it uses a Bootstrap Theme : Minty.
  
  # Screen Shots
  
