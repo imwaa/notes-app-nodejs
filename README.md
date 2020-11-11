@@ -1,5 +1,7 @@
 # notes-app
-Notes Application made with Node.js &amp; MongoDb, it allows us to create an account, login and create personal notes (private).
+Notes Application made with Node.js using express and passport.js.
+For the database it uses MongoDb.
+This allows us to create an account, login and create personal notes (private).
 
 This app can:
  - create/read/update/delete Notes
